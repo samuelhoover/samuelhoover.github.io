@@ -27,8 +27,8 @@ Simple Python script for solving the Cahn-Hilliard equation using the Forward Eu
 
 Using gradient boosted trees and SHAP values to determine the effect of monomer sequence on the phase behavior of sequence-defined polymers.
 <p float="left">
-  <img src="/assets/imgs/best_parity_plot.svg" width="50%" />
-  <img src="/assets/imgs/best_residaul_plot.svg" width="50%" />
+  <img src="/assets/imgs/best_parity_plot.png" width="50%" />
+  <img src="/assets/imgs/best_residual_plot.png" width="50%" />
 </p>
 
 ### Phase behavior of polyzwitterion-polyelectrolyte complex coacervates
@@ -36,9 +36,9 @@ Using gradient boosted trees and SHAP values to determine the effect of monomer 
 Developing theory to investigate the effects of a dynamic pH environment on the phase stability of polyzwitterion-polyelectrolyte complex coacervates.
 
 <p float="left">
-  <img src="/assets/imgs/4-states_v3.svg" width="45%" />
-  <img src="/assets/imgs/example-pZ.svg" width="45%" />
+  <img src="/assets/imgs/4-states_v3.png" width="45%" />
+  <img src="/assets/imgs/example-pZ.png" width="45%" />
 </p>
 <p float="center">
-  <img src="/assets/imgs/system-schematics.svg" width="75%" />
+  <img src="/assets/imgs/system-schematic.png" width="75%" />
 </p>
