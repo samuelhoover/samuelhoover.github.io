@@ -26,7 +26,7 @@ Simple Python script for solving the Cahn-Hilliard equation using the Forward Eu
 ### Unraveling sequence effects on copolymer phase behavior using SHAP values
 
 Using gradient boosted trees and SHAP values to determine the effect of monomer sequence on the phase behavior of sequence-defined polymers.
-<p align="center">
+<p align="left">
   <img src="/assets/imgs/Nchi_v2-vs-eta.svg" width="95%" />
 </p>
 <p align="center">
