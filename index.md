@@ -1,7 +1,5 @@
 ## Selected projects
 
----
-
 ### ZeoNet
 
 Using convolutional neural networks on volumetric data to predict adsorption properties in nanoporous materials. Published in Journal of Materials Chemisty A <a href="https://pubs.rsc.org/en/content/articlelanding/2023/ta/d3ta01911j">[Ref]</a>. Contributed to the early stages of this project.
