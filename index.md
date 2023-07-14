@@ -1,5 +1,3 @@
-<title> Samuel C. Hoover </title>
-
 ## Selected projects
 
 ### ZeoNet
