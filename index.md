@@ -7,7 +7,7 @@ Using convolutional neural networks on volumetric data to predict adsorption pro
   <img src="assets/imgs/saliency-maps.png" width="95%" />
 </p>
 
-<a href="https://pubs.rsc.org/en/content/articlelanding/2023/ta/d3ta01911j">Check out the paper!</a>.
+<a href="https://pubs.rsc.org/en/content/articlelanding/2023/ta/d3ta01911j">Check out the paper!</a>
 
 ### Spinodal decomposition via Cahn-Hilliard equation
 
