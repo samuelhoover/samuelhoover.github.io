@@ -1,84 +1,19 @@
----
----
-
-@string{aps = {American Physical Society,}}
-
-@book{einstein1956investigations,
-  bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation},
-  preview={brownian-motion.gif}
-}
-
-@article{einstein1950meaning,
-  abbr={AJP},
-  bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers}
-}
-
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein, A. and Podolsky, B. and Rosen, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
-  altmetric={248277},
-  dimensions={true},
-  selected={true}
-}
-
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
-}
-
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.},
-  volume={17},
-  pages={549--560},
-  year={1905}
-}
-
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
-}
-
-@book{przibram1967letters,
-  bibtex_show={true},
-  title={Letters on wave mechanics},
-  author={Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year={1967},
-  publisher={Vision},
-  preview={wave-mechanics.gif}
+@article{liuZeoNet3DConvolutional2023,
+  title = {{{ZeoNet}}: {{3D}} Convolutional Neural Networks for Predicting Adsorption in Nanoporous Zeolites},
+  shorttitle = {{{ZeoNet}}},
+  author = {Liu, Yachan and Perez, Gustavo and Cheng, Zezhou and Sun, Aaron and Hoover, Samuel C. and Fan, Wei and Maji, Subhransu and Bai, Peng},
+  year = {2023},
+  month = aug,
+  journal = {Journal of Materials Chemistry A},
+  volume = {11},
+  number = {33},
+  pages = {17570--17580},
+  publisher = {{The Royal Society of Chemistry}},
+  issn = {2050-7496},
+  doi = {10.1039/D3TA01911J},
+  url = {https://pubs.rsc.org/en/content/articlelanding/2023/ta/d3ta01911j},
+  abstract = {Zeolites are one of the most widely used materials in the chemical industry due to their nanometer-sized pores that can adsorb and react upon molecules selectively. With hundreds of known framework topologies and hundreds of thousands of computationally predicted structures, the ability to rapidly predict zeolite performance allows researchers to prioritize their efforts on the most promising structures for a given application. Although the accuracy of forcefield-based atomistic simulations has advanced significantly in the past two decades, these simulations can be computationally expensive, especially for long-chain, complex molecules. We present ZeoNet, a representation learning framework using convolutional neural networks (ConvNets) and 3D volumetric representations for predicting adsorption in zeolites. ZeoNet was trained on the task of predicting Henry's constants for adsorption, kH, of n-octadecane in more than 330 000 known and predicted zeolite materials. Employing a 3D grid based on the distances to solvent-accessible surfaces, a volumetric representation that can be generated efficiently, the best-performing ZeoNet achieved a correlation coefficient r2 = 0.977 and a mean-squared error MSE = 3.8 in ln kH, which corresponds to an error of 9.3 kJ mol-1 in adsorption free energy. In comparison, a model based on hand-designed geometric features has values of r2 = 0.783 and MSE = 35.7. ZeoNet is also relatively efficient and can process {$\approx$}8 structures per second on an Nvidia RTX 2080TI GPU, orders of magnitude faster than forcefield-based simulations. A systematic analysis was conducted to investigate how the choice of ConvNet architectures, the linear dimension (L) and spatial resolution ({$\Delta$}d) of the distance grids, batch size, optimizer, and learning rate impact the model performance. We found that ConvNets based on the ResNet architecture offer the best tradeoff between expressiveness and efficiency. The performance for all models reaches a plateau at L = 30\textendash 45 \AA{} and depends less sensitively on grid resolution, with a small benefit around {$\Delta$}d = 0.30\textendash 0.45 \AA. Finally, saliency maps were visualized to identify which regions of the materials contributed the most to model predictions. It was found, interestingly, that the predictions are driven primarily by the accessible pore volume rather than the region occupied by the framework atoms.},
+  copyright = {All rights reserved},
+  langid = {english},
+  preview = {zeonet.gif}
 }

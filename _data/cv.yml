@@ -74,14 +74,15 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Soft matter physics
       items: 
         - Description 1.
         - Description 2.
-    - title: Topic 2.
+    - title: Molecular biology
       items:
         - Description 1.
         - Description 2.
+    - title: Artificial intelligence
 
 - title: Other Interests
   type: list
