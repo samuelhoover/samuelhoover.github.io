@@ -1,76 +1,103 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
+    "name": "Samuel C. Hoover",
+    "label": "Ph.D. candidate in Chemical Engineering",
+    "image": "/assets/img/headshot.png",
+    "email": "samuelhoover@umass.edu",
+    "url": "https://samuelhoover.github.io",
+    "summary": "4th year Ph.D. candidate in Chemical Engineering studying the fundamental physics governing biomolecular condensates and polymer aggregates using computational methods",
+
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "GitHub",
+        "username": "samuelhoover",
+        "url": "https://github.com/samuelhoover"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "samuel-hoover",
+        "url": "https://www.linkedin.com/in/samuel-hoover"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": [
-        "Relativity"
-      ]
+      "name": "Muthukumar Group",
+      "position": "Graduate Research Assistant",
+      "url": "http://theory.pse.umass.edu",
+      "startDate": "2021-01",
+      "endDate": "Present",
+      "summary": "Developing theory and computational models to study the effect of monomer sequence and intra-chain monomer composition of heteropolymers on their phase behavior"
+    },
+    {
+      "name": "Bai Research Group",
+      "position": "Graduate Research Assistant",
+      "url": "https://people.umass.edu/baigroup/",
+      "startDate": "2019-01",
+      "endDate": "2020-11",
+      "summary": "Applied convolutional neural networks for predicting the adsorption properties of nanoporous zeolite materials and developed forcefield parameters for small organic molecules",
+      "highlight": "Insights from my work and the deep learning framework I developed during time in lab was used for a publication in Journal of Materials Chemistry A"
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of Massaschusetts Amherst, Amherst, MA, USA",
+      "url": "https://che.umass.edu",
+      "area": "Chemical Engineering",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
+      "startDate": "2020-09",
+      "endDate": "Present",
+      "score": "3.6",
       "courses": [
-        "Theory of Relativity"
+        "Polymer Dynamics"
+      ]
+    },
+    {
+      "institution": "University of Massaschusetts Amherst, Amherst, MA, USA",
+      "url": "https://che.umass.edu",
+      "area": "Chemical Engineering",
+      "studyType": "MS coursework",
+      "startDate": "2018-09",
+      "endDate": "2020-08",
+      "score": "3.6",
+      "courses": [
+        "Neural Networks",
+        "Machine Learning",
+        "Computational Materials Science",
+        "Thermodynamics",
+        "Advanced Mathematical Analysis",
+        "Kinetics & Chemical Reactor Design"
+      ]
+    },
+    {
+      "institution": "Clarkson University, Potsdam, NY, USA",
+      "url": "https://www.clarkson.edu/academics/schools-colleges/engineering/chemical-biomolecular-engineering-department",
+      "area": "Chemical Engineering",
+      "studyType": "BS",
+      "startDate": "2014-09",
+      "endDate": "2018-05",
+      "score": "3.6",
+      "courses": [
+        "Mathematical Modeling",
+        "Fourier Series",
+        "Transport Processes",
+        "Process Controls"
       ]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Fall TA Award",
+      "date": "2022",
+      "awarder": "Chemical Engineering Dept.",
+      "summary": "Given by Chemical Engineering Department faculty to the best TA in the Fall 2022 semester.'"
     }
   ],
   "certificates": [],
   "publications": [],
-  "skills": [],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent"
-    }
-  ],
+  "skills": ["Machine learning", "computer vision", "molecular dynamics", "Monte Carlo simulations", "data science", "numerical analysis"],
+  "languages": [],
   "interests": [],
   "references": [],
   "projects": []
