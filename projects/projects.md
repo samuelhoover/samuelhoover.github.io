@@ -17,7 +17,7 @@ Using convolutional neural networks on volumetric data to predict adsorption pro
   <img src="/projects/assets/imgs/saliency-maps.png" width="95%" />
 </p>
 
-<a href="https://pubs.rsc.org/en/content/articlelanding/2023/ta/d3ta01911j">Check out the paper!</a>
+[Check out the paper!](https://pubs.rsc.org/en/content/articlelanding/2023/ta/d3ta01911j)
 
 ### Spinodal decomposition via Cahn-Hilliard equation
 
@@ -28,7 +28,7 @@ Simple Python script for solving the Cahn-Hilliard equation using the Forward Eu
   <img src="/projects/assets/gifs/spinodal-decomposition_D-100_gamma-0.5_p-0.4.gif" width="47%" />
 </p>
 
-<a href="https://github.com/samuelhoover/spinodal-decomposition">Check out the repo!</a>
+[Check out the repo!](https://github.com/samuelhoover/spinodal-decomposition)
 
 ---
 
@@ -49,11 +49,11 @@ Using gradient boosted trees and SHAP values to determine the effect of monomer 
 Developing theory to investigate the effects of a dynamic pH environment on the phase stability of polyzwitterion-polyelectrolyte complex coacervates.
 
 <p align="center">
-  <img src="/projects/assets/imgs/4-states_v3.png" width="95%" />
+  <img src="/projects/assets/imgs/4-states_v4.png" width="95%" />
 </p>
 <p align="center">
-  <img src="/projects/assets/imgs/example-pZ.png" width="95%" />
+  <img src="/projects/assets/imgs/example-pZ.png" width="80%" />
 </p>
 <p align="center">
-  <img src="/projects/assets/imgs/system-schematic.png" width="95%" />
+  <img src="/projects/assets/imgs/system-schematic.png" width="100%" />
 </p>
