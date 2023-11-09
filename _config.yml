@@ -20,17 +20,18 @@
 
 title: Samuel C. Hoover
 repository: samuelhoover/samuelhoover.github.io
-logo: "../assets/imgs/IMG_6988-cropped.png?raw=true"
+logo: "../blog/assets/imgs/IMG_6988-cropped.png?raw=true"
 description: >
   <br>
   Chemical engineering Ph.D. candidate, polymer science, computational modeling.
   <br><br>
-  <a href="./projects/">Projects</a> <br>
-  <a href="./assets/pdfs/resume.pdf">Resume</a>
+  <a href="/blog/projects/">Projects</a> <br>
+  <a href="/blog/assets/pdfs/resume.pdf">Resume</a>
   <br><br>
   <a href="https://www.linkedin.com/in/samuel-hoover">View My LinkedIn Profile</a>
 
 url: https://samuelhoover.github.io # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: /blog
 
 github:
   is_project_page: false
