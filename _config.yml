@@ -23,12 +23,14 @@ repository: samuelhoover/samuelhoover.github.io
 logo: "../assets/imgs/IMG_6988-cropped.png?raw=true"
 description: >
   <br>
-  Chemical engineering Ph.D. candidate, polymer science, computational modeling.
+  Chemical engineering Ph.D. candidate, PPG Fellow, polymer physicist, and computational modeler.
   <br><br>
   <a href="/projects/">Projects</a> <br>
-  <a href="/assets/pdfs/resume.pdf">Resume</a>
+  <a href="/assets/pdfs/cv.pdf">CV</a> | <a href="/assets/pdfs/resume.pdf">Resume</a>
   <br><br>
-  <a href="https://www.linkedin.com/in/samuel-hoover">View My LinkedIn Profile</a>
+  <a href="mailto:samuelhoover@umass.edu">Contact me via email</a> <br>
+  <a href="https://github.com/samuelhoover">Check out my GitHub</a> <br>
+  <a href="https://www.linkedin.com/in/samuel-hoover">Connect with me on LinkedIn</a>
 
 url: https://samuelhoover.github.io # the base hostname & protocol for your site, e.g. http://example.com
 

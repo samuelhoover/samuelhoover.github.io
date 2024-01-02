@@ -12,7 +12,7 @@ permalink: projects/
 
 ### ZeoNet
 
-Using convolutional neural networks on volumetric data to predict adsorption properties in nanoporous materials. Published in Journal of Materials Chemisty A. Main contributions come from Yachan Liu and Gustavo Perez. I contributed to the earlier stages of this project, developing the pipelines and learning framework and finding that simple geometric descriptors cannot reliably predict adsorption properties.
+Using convolutional neural networks on volumetric data to predict adsorption properties in nanoporous materials. Published in *Journal of Materials Chemisty A*. Main contributions come from Yachan Liu and Gustavo Perez. I contributed to the earlier stages of this project, developing the pipelines and learning framework and finding that simple geometric descriptors cannot reliably predict adsorption properties.
 <p align="center">
   <img src="/projects/assets/imgs/saliency-maps.png" width="95%" />
 </p>
