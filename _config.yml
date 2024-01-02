@@ -28,9 +28,16 @@ description: >
   <a href="/projects/">Projects</a> <br>
   <a href="/assets/pdfs/cv.pdf">CV</a> | <a href="/assets/pdfs/resume.pdf">Resume</a>
   <br><br>
-  <a href="mailto:samuelhoover@umass.edu">Contact me via email</a> <br>
-  <a href="https://github.com/samuelhoover">Check out my GitHub</a> <br>
-  <a href="https://www.linkedin.com/in/samuel-hoover">Connect with me on LinkedIn</a>
+
+  <a href="mailto:samuelhoover@umass.edu">
+  <img style="padding: 0px 10px 0px 0px;" src="/assets/imgs/mail.png" height="32"/>
+  </a>
+  <a href="https://github.com/samuelhoover">
+  <img style="padding: 0px 10px 0px 0px;" src="/assets/imgs/github-mark.png" height="32"/>
+  </a>
+  <a href="https://linkedin.com/in/samuel-hoover">
+  <img style="padding: 0px 10px 0px 0px;" src="/assets/imgs/linkedin.png" height="32"/>
+  </a>
 
 url: https://samuelhoover.github.io # the base hostname & protocol for your site, e.g. http://example.com
 
