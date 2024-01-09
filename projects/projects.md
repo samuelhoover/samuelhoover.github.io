@@ -30,6 +30,12 @@ Simple Python script for solving the Cahn-Hilliard equation using the Forward Eu
 
 [Check out the repo!](https://github.com/samuelhoover/spinodal-decomposition)
 
+### ChE Senior Lab peer critique automation script
+
+Python script to automate the tedious work of being a Teaching Assistant for ChE Senior Lab at UMass Amherst.
+
+[Check out the repo!](https://github.com/samuelhoover/ChE-401-402-peer-critiques-anonymizer)
+
 ---
 
 ## Ongoing work
