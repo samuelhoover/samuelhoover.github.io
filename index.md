@@ -16,7 +16,7 @@ I am a PPG Fellow and fourth year Ph.D. candidate in [Chemical Engineering at UM
 
 Outside of the lab, my hobbies include cooking and baking (especially when it's for my girlfriend), learning computer science, reading post WWII-era history, and hanging out with my cats [Leo (demon)](/assets/imgs/leo.png) and [Lou Lou (angel)](/assets/imgs/loulou.png) whom I both *love* equally.
 
-You can find my ongoing and completed projects using the link in the sidebar.
+You can find more about my ongoing and completed projects using the link in the sidebar.
 
 
 <br>
@@ -25,17 +25,17 @@ You can find my ongoing and completed projects using the link in the sidebar.
 ---
 
 <div style='text-align:left;'>
-    <b>University of Massachusetts Amherst</b>
+    <b><font color="#333333">University of Massachusetts Amherst</font></b>
     <span style='float:right;'>
-        <b>2018 &mdash; 2024</b>
+        <b><font color="#333333">2018 &mdash; 2024</font></b>
     </span>
 </div>
 &emsp; Ph.D., Chemical Engineering
 
 <div style='text-align:left;'>
-    <b>Clarkson University</b>
+    <b><font color="#333333">Clarkson University</font></b>
     <span style='float:right;'>
-        <b>2014 &mdash; 2018</b>
+        <b><font color="#333333">2014 &mdash; 2018</font></b>
     </span>
 </div>
 &emsp; B.S., Chemical Engineering\
@@ -48,18 +48,18 @@ You can find my ongoing and completed projects using the link in the sidebar.
 ---
 
 <div style='text-align:left;'>
-    <b>Graduate Research Assistant</b>
+    <b><font color="#333333">Graduate Research Assistant</font></b>
     <span style='float:right;'>
-        <b>2021 &mdash; 2024</b>
+        <b><font color="#333333">2021 &mdash; 2024</font></b>
     </span>
 </div>
 <u>Prof. M. Muthukumar, University of Massachusetts Amherst</u><br>
 Studying physics underlying aggregation in synthetic and biological systems
 
 <div style='text-align:left;'>
-    <b>Graduate Research Assistant</b>
+    <b><font color="#333333">Graduate Research Assistant</font></b>
     <span style='float:right;'>
-        <b>2019 &mdash; 2020</b>
+        <b><font color="#333333">2019 &mdash; 2020</font></b>
     </span>
 </div>
 <u>Prof. Peng Bai, University of Massachusetts Amherst</u><br>
@@ -72,19 +72,37 @@ Studied use of convolutional neural networks to predict material properties of n
 ---
 
 <div style='text-align:left;'>
-    <b>Sensing & Separations Technologies Intern</b>
+    <b><font color="#333333">Sensing & Separations Technologies Intern</font></b>
     <span style='float:right;'>
-        <b>2023</b>
+        <b><font color="#333333">2023</font></b>
     </span>
 </div>
 <u>Triton Systems, Inc.</u><br>
 Optimized induction heating coil using electromagnetic modeling in COMSOL for DHS SBIR project
 
 <div style='text-align:left;'>
-    <b>Global Manufacturing Technology Intern</b>
+    <b><font color="#333333">Global Manufacturing Technology Intern</font></b>
     <span style='float:right;'>
-        <b>2017</b>
+        <b><font color="#333333">2017</font></b>
     </span>
 </div>
 <u>SI Group</u><br>
 Implemented PI Asset Framework, conducted root cause analysis on company loss events, and led group intern project
+
+
+<br>
+## Publications
+
+---
+
+Liu, Y.; Perez, G.; Cheng, Z.; Sun, A.; **Hoover, S. C.**; Fan, W.; Maji, S.; Bai, P. ZeoNet: 3D Convolutional Neural Networks for Predicting Adsorption in Nanoporous Zeolites. *Journal of Materials Chemistry A* **2023**. DOI: [https://doi.org/10.1039/D3TA01911J](https://doi.org/10.1039/D3TA01911J).
+
+
+<br>
+## Ongoing work
+
+---
+
+**Hoover, S. C.**; Margossian, K. O.; M. Muthukumar. Theory and Quantitative Assessment of pH-responsive Polyzwitterion-Polyelectrolyte Complexation. **In preparation**.
+
+**Hoover, S. C.**; Li, S.-F.; M. Muthukumar. Using Machine Learning to Predict the Microphase Separation Transition of Sequence-Defined Charged Heteropolymers in Concentrated Solutions. **In preparation**.
