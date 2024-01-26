@@ -46,20 +46,11 @@ Using gradient-boosted decision trees and SHAP values to determine the effect of
 <p align="left">
   <img src="/projects/assets/imgs/Nchi_v2-vs-eta.svg" width="95%" />
 </p>
-<p align="center">
-  <img src="/projects/assets/imgs/best_parity_plot.png" width="95%" />
-</p>
 
 ### Phase behavior of polyzwitterion-polyelectrolyte complex coacervates
 
 Developing theory to investigate the effects of a dynamic pH environment on the phase stability of polyzwitterion-polyelectrolyte complex coacervates.
 
-<p align="center">
-  <img src="/projects/assets/imgs/4-states_v4.png" width="95%" />
-</p>
-<p align="center">
-  <img src="/projects/assets/imgs/example-pZ.png" width="80%" />
-</p>
 <p align="center">
   <img src="/projects/assets/imgs/system-schematic.png" width="100%" />
 </p>
