@@ -4,10 +4,6 @@ title: Projects
 permalink: projects/
 ---
 
-# Projects
-
----
-
 ## Selected projects
 
 ### ZeoNet
