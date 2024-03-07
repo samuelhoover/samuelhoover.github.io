@@ -12,7 +12,7 @@ Programmer by choice, chemical engineer by compulsion ([I'm joking, I'm joking!]
 
 **I am actively looking for full-time positions with an expected start date of Summer 2024.**
 
-I am a PPG Fellow and fourth year Ph.D. candidate in [Chemical Engineering at UMass Amherst](https://www.umass.edu/engineering/academics/departments/chemical-engineering) studying the phase behavior of complex polymer systems in the [Muthukumar Group](http://theory.pse.umass.edu/). My work focuses on using theory, simulation, and machine learning techniques to investigate the fundamental physics underlying polymer aggregates and self-assemblies in synthetic and biological systems. Our goal is to leverage our understanding of intermolecular interactions to develop effective therapeutics for diseases that are onset by aberrant aggregations such as Parkison's Disease, Lewy Body Dementia, and cataracts.
+I am a PPG Fellow and fourth year Ph.D. candidate in Chemical Engineering at [UMass Amherst](https://www.umass.edu/engineering/academics/departments/chemical-engineering) studying the phase behavior of complex polymer systems in the [Muthukumar Group](http://theory.pse.umass.edu/). My work focuses on using theory, simulation, and machine learning techniques to investigate the fundamental physics underlying polymer aggregates and self-assemblies in synthetic and biological systems. Our goal is to leverage our understanding of intermolecular interactions to develop therapeutics for diseases that are onset by aberrant aggregations such as Parkison's Disease, Lewy Body Dementia, and cataracts.
 
 Outside of the lab, my hobbies include cooking and baking (especially when it's for my girlfriend), learning computer science and molecular biology, reading Cold War and modern era (post-1980) history, and hanging out with my cats [Leo (demon)](/assets/imgs/leo.png) and [Lou Lou (angel)](/assets/imgs/loulou.png) whom I both *love* equally.
 
@@ -106,3 +106,23 @@ Liu, Y.; Perez, G.; Cheng, Z.; Sun, A.; **Hoover, S. C.**; Fan, W.; Maji, S.; Ba
 **Hoover, S. C.**; Margossian, K. O.; M. Muthukumar. Theory and Quantitative Assessment of pH-responsive Polyzwitterion-Polyelectrolyte Complexation. **In preparation**.
 
 **Hoover, S. C.**; Li, S.-F.; M. Muthukumar. Using Machine Learning to Predict the Microphase Separation Transition of Sequence-Defined Charged Heteropolymers in Concentrated Solutions. **In preparation**.
+
+
+<br>
+## Awards
+
+---
+
+<div style='text-align:left;'>
+    <b><font color='#333333'>PPG Fellowship</font></b>
+    <span style='float:right;'>
+        <b><font color='#333333'>2024</font></b>
+    </span>
+</div>
+
+<div style='text-align:left;'>
+    <b><font color='#333333'>Best Teaching Assistant</font></b>
+    <span style='float:right;'>
+        <b><font color='#333333'>2022</font></b>
+    </span>
+</div>
