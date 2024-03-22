@@ -12,11 +12,11 @@ Programmer by choice, chemical engineer by compulsion ([I'm joking, I'm joking!]
 
 **I am actively looking for full-time positions with an expected start date of Summer 2024.**
 
-I am a PPG Fellow and fourth year Ph.D. candidate in Chemical Engineering at [UMass Amherst](https://www.umass.edu/engineering/academics/departments/chemical-engineering) studying the phase behavior of complex polymer systems in the [Muthukumar Group](http://theory.pse.umass.edu/). My work focuses on using theory, simulation, and machine learning techniques to investigate the fundamental physics underlying polymer aggregates and self-assemblies in synthetic and biological systems. Our goal is to leverage our understanding of intermolecular interactions to develop therapeutics for diseases that are onset by aberrant aggregations such as Parkison's Disease, Lewy Body Dementia, and cataracts.
+I am a PPG Fellow and fourth year Ph.D. candidate in Chemical Engineering at [UMass Amherst](https://www.umass.edu/engineering/academics/departments/chemical-engineering) studying the phase behavior of complex polymer systems in the [Muthukumar Group](http://theory.pse.umass.edu/). My work focuses on using theory, simulation, and machine learning techniques to investigate the fundamental physics underlying polymer aggregates and self-assemblies in synthetic and biological systems. Our goal is to leverage our understanding of intermolecular interactions to develop therapeutics for diseases that are onset by aberrant aggregations.
 
 Outside of the lab, my hobbies include cooking and baking (especially when it's for my girlfriend), learning computer science and molecular biology, reading Cold War and modern era (post-1980) history, and hanging out with my cats [Leo (demon)](/assets/imgs/leo.png) and [Lou Lou (angel)](/assets/imgs/loulou.png) whom I both *love* equally.
 
-You can find more about my ongoing and completed projects using the link in the sidebar.
+You can find more about my ongoing and completed projects by visiting my [projects page](/projects/).
 
 
 <br>
