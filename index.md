@@ -29,7 +29,9 @@ and Ariel.
 
 You can find more about my ongoing and completed projects by visiting my
 [projects page](/projects/).
-  
+
+<br><br>
+
 ## Education
 
 ---
@@ -50,7 +52,9 @@ You can find more about my ongoing and completed projects by visiting my
 </div>
 &emsp; B.S., Chemical Engineering\
 &emsp;&emsp; Minors in Mathematics and International & Cross-Cultural Perspectives
-  
+
+<br><br>
+
 ## Selected Academic Experience
 
 ---
@@ -74,7 +78,9 @@ a suite of computational methods
 <u>Prof. Peng Bai, University of Massachusetts Amherst</u><br>
 Applied convolutional neural networks to predict material properties of
 nanoporous materials
-  
+
+<br><br>
+
 ## Industrial Experience
 
 ---
@@ -98,20 +104,25 @@ DHS SBIR project
 <u>SI Group</u>\
 Implemented PI Asset Framework, conducted root cause analysis on company loss
 events, and led group intern project
-  
+
+<br><br>
+
 ## Publications
 
 ---
 
 **Hoover, S. C.**; Margossian, K. O.; M. Muthukumar. Theory and Quantitative
 Assessment of pH-responsive Polyzwitterion-Polyelectrolyte Complexation.
-**Accepted** (2024).
+*Soft Matter* (2024).
+[doi:10.1039/D4SM00575A](https://doi.org/10.1039/D4SM00575A).
 
 Liu, Y.; Perez, G.; Cheng, Z.; Sun, A.; **Hoover, S. C.**; Fan, W.; Maji, S.; Bai,
 P. ZeoNet: 3D Convolutional Neural Networks for Predicting Adsorption in
-Nanoporous Zeolites. *Journal of Materials Chemistry A* **11**, 17570–17580. doi:
-[10.1039/D3TA01911J](https://doi.org/10.1039/D3TA01911J) (2023).
-  
+Nanoporous Zeolites. *Journal of Materials Chemistry A* **11**, 17570–17580
+(2023). doi: [10.1039/D3TA01911J](https://doi.org/10.1039/D3TA01911J).
+
+<br><br>
+
 ## Ongoing work
 
 ---
@@ -119,8 +130,10 @@ Nanoporous Zeolites. *Journal of Materials Chemistry A* **11**, 17570–17580. d
 **Hoover, S. C.**; Li, S.-F.; M. Muthukumar. Using Machine Learning to Predict
 the Microphase Separation Transition of Sequence-Defined Charged
 Heteropolymers in Concentrated Solutions. **In preparation**.
-  
-## Awards
+
+<br><br>
+
+## Selected awards
 
 ---
 
