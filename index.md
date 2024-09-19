@@ -113,7 +113,7 @@ events, and led group intern project
 
 **Hoover, S. C.**; Margossian, K. O.; M. Muthukumar. Theory and quantitative
 assessment of pH-responsive polyzwitterion-polyelectrolyte complexation.
-*Soft Matter* (2024).
+*Soft Matter* **20**, 7199-7213 (2024).
 [doi:10.1039/D4SM00575A](https://doi.org/10.1039/D4SM00575A).
 
 Liu, Y.; Perez, G.; Cheng, Z.; Sun, A.; **Hoover, S. C.**; Fan, W.; Maji, S.; Bai,
