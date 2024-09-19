@@ -25,7 +25,7 @@ Outside of the lab, my hobbies include cooking and baking (especially when it
 is for my girlfriend), studying computer science and molecular and structural
 biology, reading Cold War and modern era (post-1980) history, and hanging out
 with my cats [Leo](/assets/imgs/leo.png), [Lou Lou](/assets/imgs/loulou.png),
-and Ariel.
+and [Ariel](/assets/imgs/ariel.png).
 
 You can find more about my ongoing and completed projects by visiting my
 [projects page](/projects/).
@@ -62,7 +62,7 @@ You can find more about my ongoing and completed projects by visiting my
 <div style='text-align:left;'>
     <b><font color="#333333">Graduate Research Assistant</font></b>
     <span style='float:right;'>
-        <b><font color="#333333">Jan 2021 &mdash; Aug 2024</font></b>
+        <b><font color="#333333">Jan 2021 &mdash; Present</font></b>
     </span>
 </div>
 <u>Prof. M. Muthukumar, University of Massachusetts Amherst</u><br>
@@ -111,14 +111,14 @@ events, and led group intern project
 
 ---
 
-**Hoover, S. C.**; Margossian, K. O.; M. Muthukumar. Theory and Quantitative
-Assessment of pH-responsive Polyzwitterion-Polyelectrolyte Complexation.
+**Hoover, S. C.**; Margossian, K. O.; M. Muthukumar. Theory and quantitative
+assessment of pH-responsive polyzwitterion-polyelectrolyte complexation.
 *Soft Matter* (2024).
 [doi:10.1039/D4SM00575A](https://doi.org/10.1039/D4SM00575A).
 
 Liu, Y.; Perez, G.; Cheng, Z.; Sun, A.; **Hoover, S. C.**; Fan, W.; Maji, S.; Bai,
-P. ZeoNet: 3D Convolutional Neural Networks for Predicting Adsorption in
-Nanoporous Zeolites. *Journal of Materials Chemistry A* **11**, 17570–17580
+P. ZeoNet: 3D convolutional neural networks for predicting adsorption in
+nanoporous zeolites. *Journal of Materials Chemistry A* **11**, 17570–17580
 (2023). doi: [10.1039/D3TA01911J](https://doi.org/10.1039/D3TA01911J).
 
 <br><br>
@@ -127,9 +127,9 @@ Nanoporous Zeolites. *Journal of Materials Chemistry A* **11**, 17570–17580
 
 ---
 
-**Hoover, S. C.**; Li, S.-F.; M. Muthukumar. Using Machine Learning to Predict
-the Microphase Separation Transition of Sequence-Defined Charged
-Heteropolymers in Concentrated Solutions. **In preparation**.
+**Hoover, S. C.**; Li, S.-F.; M. Muthukumar. Learning the sequence effects on
+the microphase separation transition of charged heteropolymers. **In
+preparation**.
 
 <br><br>
 
