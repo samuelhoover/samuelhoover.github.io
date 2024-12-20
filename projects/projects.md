@@ -23,7 +23,7 @@ coacervate stability.
 ### ZeoNet
 
 Applied convolutional neural networks on volumetric data to predict adsorption
-properties in nanoporous materials. Published in *Journal of Materials Chemisty
+properties in nanoporous materials. Published in *Journal of Materials Chemistry
 A*. Main contributions come from Yachan Liu and Gustavo Perez. I contributed to
 the earlier stages of this project, developing the pipelines and learning
 framework and finding that simple geometric descriptors cannot reliably predict
@@ -67,7 +67,7 @@ Euler method.
 ### ChE Senior Lab peer critique automation script
 
 Python script to automate the tedious work of being a Teaching Assistant for
-ChE Senior Lab at UMass Amherst.
+ChE Senior Lab at UMass Amherst. Saved 8 hours over the course of the semester.
 
 [[repo]](https://github.com/samuelhoover/ChE-401-402-peer-critiques-anonymizer)
 
