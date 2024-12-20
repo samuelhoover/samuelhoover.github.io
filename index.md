@@ -11,10 +11,10 @@ permalink: /
 Programmer by choice, chemical engineer by compulsion ([I'm joking, I'm
 joking!](https://www.youtube.com/watch?v=Jt1GRckaQ_s)).
 
-**I am actively looking for full-time positions with an expected start date of
-Fall 2024.**
+**I am actively looking for full-time positions in Los Angeles, CA, USA and
+Vancouver, BC, CA!**
 
-I am a recent PPG Fellow and Ph.D. graduate in Chemical Engineering at [UMass
+I am a PPG Fellow and Chemical Engineering Ph.D from [UMass
 Amherst](www.umass.edu/engineering/academics/departments/chemical-engineering).
 In the [Muthukumar Group](http://theory.pse.umass.edu/), I studied the phase
 behavior of complex polymer systems in using theory, simulation, and machine
@@ -39,7 +39,7 @@ You can find more about my ongoing and completed projects by visiting my
 <div style='text-align:left;'>
     <b><font color="#333333">University of Massachusetts Amherst</font></b>
     <span style='float:right;'>
-        <b><font color="#333333">Sep 2018 &mdash; Aug 2024</font></b>
+        <b><font color="#333333">Sep 2018 &mdash; Present</font></b>
     </span>
 </div>
 &emsp; Ph.D., Chemical Engineering
@@ -67,7 +67,7 @@ You can find more about my ongoing and completed projects by visiting my
 </div>
 <u>Prof. M. Muthukumar, University of Massachusetts Amherst</u><br>
 Studying physics underlying aggregation in synthetic and biological systems using
-a suite of computational methods
+molecular dynamics, explainable machine learning, and numerical analysis
 
 <div style='text-align:left;'>
     <b><font color="#333333">Graduate Research Assistant</font></b>
