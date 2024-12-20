@@ -9,7 +9,7 @@ permalink: /
 ---
 
 Programmer by choice, chemical engineer by compulsion ([I'm joking, I'm
-joking!](https://www.youtube.com/watch?v=Jt1GRckaQ_s)).
+joking!](https://youtube.com/clip/UgkxlDbbVBWbdSLhYTh7Si5akIdVaDl2NW53?feature=shared)).
 
 **I am actively looking for full-time positions in Los Angeles, CA, USA and
 Vancouver, BC, CA!**
