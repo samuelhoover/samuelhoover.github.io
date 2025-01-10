@@ -17,13 +17,14 @@ Vancouver, BC, CA!**
 I am a PPG Fellow and Chemical Engineering Ph.D from [UMass
 Amherst](www.umass.edu/engineering/academics/departments/chemical-engineering).
 In the [Muthukumar Group](http://theory.pse.umass.edu/), I studied the phase
-behavior of complex polymer systems in using theory, simulation, and machine
+behavior of complex polymer systems using theory, simulation, and machine
 learning to investigate the fundamental physics driving aberrant aggregations
-like cataracts and those implicated in neurodegenerative diseases.
+like cataracts and those implicated in [neurodegenerative
+diseases](https://www.nature.com/articles/nrd.2017.95).
 
 Outside of the lab, my hobbies include cooking and baking (especially when it
-is for my girlfriend), studying computer science and molecular and structural
-biology, reading Cold War and modern era (post-1980) history, and hanging out
+is for my girlfriend), studying computer science and molecular/structural
+biology, reading Cold War and modern era (post-WWII) history, and hanging out
 with my cats [Leo](/assets/imgs/leo.png), [Lou Lou](/assets/imgs/loulou.png),
 and [Ariel](/assets/imgs/ariel.png).
 
@@ -39,7 +40,7 @@ You can find more about my ongoing and completed projects by visiting my
 <div style='text-align:left;'>
     <b><font color="#333333">University of Massachusetts Amherst</font></b>
     <span style='float:right;'>
-        <b><font color="#333333">Sep 2018 &mdash; Present</font></b>
+        <b><font color="#333333">Sep 2018 &mdash; Dec 2024</font></b>
     </span>
 </div>
 &emsp; Ph.D., Chemical Engineering
@@ -62,7 +63,7 @@ You can find more about my ongoing and completed projects by visiting my
 <div style='text-align:left;'>
     <b><font color="#333333">Graduate Research Assistant</font></b>
     <span style='float:right;'>
-        <b><font color="#333333">Jan 2021 &mdash; Present</font></b>
+        <b><font color="#333333">Jan 2021 &mdash; Dec 2024</font></b>
     </span>
 </div>
 <u>Prof. M. Muthukumar, University of Massachusetts Amherst</u><br>
