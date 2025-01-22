@@ -21,7 +21,7 @@ behavior of complex polymer systems using theory, simulation, and machine
 learning to investigate the fundamental physics driving aberrant aggregations
 like cataracts and those implicated in [neurodegenerative
 diseases](https://www.nature.com/articles/nrd.2017.95). My dissertation is
-entitled ``Study of Charged Macromolecule Phase Behavior using Conventional and
+entitled ''Study of Charged Macromolecule Phase Behavior using Conventional and
 Modern Modeling Methods''.
 
 Outside of the lab, my hobbies include cooking and baking (especially when it
