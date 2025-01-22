@@ -11,8 +11,8 @@ permalink: /
 Programmer by choice, chemical engineer by compulsion ([I'm joking, I'm
 joking!](https://youtube.com/clip/UgkxlDbbVBWbdSLhYTh7Si5akIdVaDl2NW53?feature=shared)).
 
-**I am actively looking for full-time positions in Los Angeles, CA, USA and
-Vancouver, BC, CA!**
+**I am actively looking for full-time data scientist/analyst positions in
+Toronto, Canada; Vancouver, Canada; and Dublin, Ireland!**
 
 I am a PPG Fellow and Chemical Engineering Ph.D from [UMass
 Amherst](www.umass.edu/engineering/academics/departments/chemical-engineering).
@@ -95,8 +95,8 @@ nanoporous materials
     </span>
 </div>
 <u>Triton Systems, Inc.</u><br>
-Optimized induction heating coil using electromagnetic modeling in COMSOL for
-DHS SBIR project
+Led development of electromagnetic components for a viral detection device for
+a DHS SBIR project
 
 <div style='text-align:left;'>
     <b><font color="#333333">Global Manufacturing Technology Intern</font></b>
