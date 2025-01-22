@@ -113,8 +113,8 @@ thermodynamically unstable mixtures, with the mixture spontaneously decomposing
 into two phases. In the case of unequal mixtures (*e.g.* 70/30 mixture on the
 right), [Ostwald ripening](https://en.wikipedia.org/wiki/Ostwald_ripening)
 occurs where droplets of the lesser phase coalesce into progressively larger
-droplets. Eventually, one should expect both scenarios (50/50 and 70/30
-mixtures) to undergo macrophase separation into two bulk phases.
+droplets. Eventually, both scenarios (50/50 and 70/30 mixtures) should undergo
+macrophase separation into two bulk phases.
 
 | 50/50 mixture | 70/30 mixture |
 | -- | --|
