@@ -39,6 +39,8 @@ description: >
   <a href="https://linkedin.com/in/samuel-hoover">
   <img style="padding: 0px 10px 0px 0px;" src="/assets/imgs/linkedin.png" height="32"/>
   </a>
+  <a href="https://scholar.google.com/citations?user=nKKVSjwAAAAJ">
+  <img style="padding: 0px 10px 0px 0px;" src="/assets/imgs/google-scholar.png" height="32"/>
 
 url: https://samuelhoover.github.io # the base hostname & protocol for your site, e.g. http://example.com
 
