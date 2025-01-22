@@ -20,10 +20,12 @@ In the [Muthukumar Group](http://theory.pse.umass.edu/), I studied the phase
 behavior of complex polymer systems using theory, simulation, and machine
 learning to investigate the fundamental physics driving aberrant aggregations
 like cataracts and those implicated in [neurodegenerative
-diseases](https://www.nature.com/articles/nrd.2017.95).
+diseases](https://www.nature.com/articles/nrd.2017.95). My dissertation is
+entitled ``Study of Charged Macromolecule Phase Behavior using Conventional and
+Modern Modeling Methods''.
 
 Outside of the lab, my hobbies include cooking and baking (especially when it
-is for my girlfriend), studying computer science and molecular/structural
+is for my girlfriend), studying computer science, data science, and molecular/structural
 biology, reading Cold War and modern era (post-WWII) history, and hanging out
 with my cats [Leo](/assets/imgs/leo.png), [Lou Lou](/assets/imgs/loulou.png),
 and [Ariel](/assets/imgs/ariel.png).
@@ -56,7 +58,7 @@ You can find more about my ongoing and completed projects by visiting my
 
 <br><br>
 
-## Selected Academic Experience
+## Selected Research Experience
 
 ---
 
