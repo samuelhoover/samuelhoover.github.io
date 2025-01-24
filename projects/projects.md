@@ -64,12 +64,12 @@ or difficult to compute. Below are two particularly important cases for the
 physical sciences. You can find more examples, implemented in Rust, in this
 [repository](https://github.com/samuelhoover/rusty-monte-carlo). I find
 implementing these examples to be helpful when learning a new language or
-numerical computing beginners as they cover the basics of arithmetic, looping,
-(pseudo)random number generators, slicing/indexing, *etc*.
+for numerical computing beginners as they cover the basics of data types,
+arithmetic, looping, (pseudo)random number generators, slicing/indexing, *etc*.
 
 #### 2D Ising model
 
-4 million element 2D array, 1 billion steps, 6 seconds, in Rust. Employed integer
+4 million element 2D array, 1 billion steps, in Rust. Employed integer
 calculation and numerical tricks for improved computational efficiency. The
 [Ising model](https://en.wikipedia.org/wiki/Ising_model) is important to a
 variety of scientific fields, namely for the study of spin glasses in
@@ -83,13 +83,13 @@ statistical mechanics.
 
 #### Percolation threshold estimation
 
-There is no solution for determining the exact [percolation
+There is no closed-form solution for [percolation
 threshold](https://en.wikipedia.org/wiki/Percolation_threshold) limit, the
 fraction of open sites to closed sites that are required for one cluster to be
-connected to opposite ends (top to bottom, left to right) of a lattice. One
-can use the Monte Carlo method to randomly open lattice sites until percolation
-occurs. Running many trials and with a large enough lattice should warrant an
-estimated percolation threshold limit of around 0.593.
+connected to opposite ends (either top to bottom or left to right) of a
+lattice. One can use the Monte Carlo method to randomly open lattice sites
+until percolation occurs. Running many trials and with a large enough lattice
+should warrant an estimated percolation threshold limit of around 0.593.
 
 Below, black squares represent closed sites, blue for open sites, and green for
 the percolated cluster.
