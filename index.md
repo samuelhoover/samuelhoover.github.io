@@ -14,7 +14,7 @@ joking!](https://youtube.com/clip/UgkxlDbbVBWbdSLhYTh7Si5akIdVaDl2NW53?feature=s
 **I am actively looking for full-time data scientist/analyst positions in
 Toronto, Canada; Vancouver, Canada; and Dublin, Ireland!**
 
-I am a PPG Fellow and Chemical Engineering Ph.D from [UMass
+I am a PPG Fellow and Chemical Engineering Ph.D. from [UMass
 Amherst](www.umass.edu/engineering/academics/departments/chemical-engineering).
 In the [Muthukumar Group](http://theory.pse.umass.edu/), I studied the phase
 behavior of complex polymer systems using theory, simulation, and machine
