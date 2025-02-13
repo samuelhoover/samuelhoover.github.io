@@ -89,7 +89,7 @@ nanoporous materials
 ---
 
 <div style='text-align:left;'>
-    <b><font color="#333333">Sensing & Separations Technologies Intern</font></b>
+    <b><font color="#333333">Technology & Signal Processing Intern</font></b>
     <span style='float:right;'>
         <b><font color="#333333">Jun 2023 &mdash; Sep 2023</font></b>
     </span>
@@ -104,7 +104,7 @@ a DHS SBIR project
         <b><font color="#333333">May 2017 &mdash; Aug 2017</font></b>
     </span>
 </div>
-<u>SI Group</u>\
+<u>SI Group</u><br>
 Implemented PI Asset Framework, conducted root cause analysis on company loss
 events, and led group intern project
 
@@ -116,8 +116,8 @@ events, and led group intern project
 
 **Hoover, S. C.**; Margossian, K. O.; M. Muthukumar. Theory and quantitative
 assessment of pH-responsive polyzwitterion-polyelectrolyte complexation.
-*Soft Matter* **20**, 7199-7213 (2024).
-[doi:10.1039/D4SM00575A](https://doi.org/10.1039/D4SM00575A).
+*Soft Matter* **20**, 7199-7213 (2024). doi:
+[10.1039/D4SM00575A](https://doi.org/10.1039/D4SM00575A).
 
 Liu, Y.; Perez, G.; Cheng, Z.; Sun, A.; **Hoover, S. C.**; Fan, W.; Maji, S.; Bai,
 P. ZeoNet: 3D convolutional neural networks for predicting adsorption in
@@ -133,6 +133,36 @@ nanoporous zeolites. *Journal of Materials Chemistry A* **11**, 17570–17580
 **Hoover, S. C.**; Li, S.-F.; M. Muthukumar. Learning the sequence effects on
 the microphase separation transition of charged heteropolymers. **In
 preparation**.
+
+<br><br>
+
+## Skills
+
+---
+
+<div style='text-align:left;'>
+    <b><font color="#333333">Programming languages</font></b>
+</div>
+Python, SQL (SQLite, Postgres), Rust, C/C++, MATLAB,
+HTML, Bash, Markdown
+
+<div style='text-align:left;'>
+    <b><font color="#333333">Tools & Frameworks</font></b>
+</div>
+PyTorch, scikit-learn, XGBoost, pandas, Polars, NumPy, SciPy, Matplotlib,
+seaborn
+
+<div style='text-align:left;'>
+    <b><font color="#333333">Machine learning</font></b>
+</div>
+Computer vision, regression, natural language processing, large language
+models, supervised learning, regression, classification, dimensionality
+reduction, clustering
+
+<div style='text-align:left;'>
+    <b><font color="#333333">Molecular dynamics</font></b>
+</div>
+GROMACS, OpenMM, LAMMPS, VMD, PyMOL, Schr&ouml;dinger
 
 <br><br>
 
