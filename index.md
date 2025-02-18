@@ -110,9 +110,13 @@ events, and led group intern project
 
 <br><br>
 
-## Publications
+## Publications & ongoing work
 
 ---
+
+**Hoover, S. C.**; Li, S.-F.; M. Muthukumar. Learning the sequence effects on
+the microphase separation transition of charged heteropolymers. **In
+preparation**.
 
 **Hoover, S. C.**; Margossian, K. O.; M. Muthukumar. Theory and quantitative
 assessment of pH-responsive polyzwitterion-polyelectrolyte complexation.
@@ -123,16 +127,6 @@ Liu, Y.; Perez, G.; Cheng, Z.; Sun, A.; **Hoover, S. C.**; Fan, W.; Maji, S.; Ba
 P. ZeoNet: 3D convolutional neural networks for predicting adsorption in
 nanoporous zeolites. *Journal of Materials Chemistry A* **11**, 17570–17580
 (2023). doi: [10.1039/D3TA01911J](https://doi.org/10.1039/D3TA01911J).
-
-<br><br>
-
-## Ongoing work
-
----
-
-**Hoover, S. C.**; Li, S.-F.; M. Muthukumar. Learning the sequence effects on
-the microphase separation transition of charged heteropolymers. **In
-preparation**.
 
 <br><br>
 
