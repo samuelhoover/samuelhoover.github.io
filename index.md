@@ -138,7 +138,7 @@ nanoporous zeolites. *Journal of Materials Chemistry A* **11**, 17570–17580
     <b><font color="#333333">Programming languages</font></b>
 </div>
 Python, SQL (SQLite, Postgres), Rust, C/C++, MATLAB,
-HTML, Bash, Markdown
+HTML, Bash
 
 <div style='text-align:left;'>
     <b><font color="#333333">Tools & Frameworks</font></b>
