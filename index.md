@@ -46,6 +46,41 @@ You can find more about my ongoing and completed projects by visiting my
 
 <br><br>
 
+## Industrial Experience
+
+---
+
+<div style='text-align:left;'>
+    <b><font color="#333333">Junior Computer Vision Engineer</font></b>
+    <span style='float:right;'>
+        <b><font color="#333333">Apr 2025 &mdash; Present</font></b>
+    </span>
+</div>
+<u>Tristar AI</u><br>
+Applied computer vision for defect detection on manufacturing lines
+
+<div style='text-align:left;'>
+    <b><font color="#333333">Technology & Signal Processing Intern</font></b>
+    <span style='float:right;'>
+        <b><font color="#333333">Jun 2023 &mdash; Sep 2023</font></b>
+    </span>
+</div>
+<u>Triton Systems, Inc.</u><br>
+Led development of electromagnetic components for a viral detection device for
+a DHS SBIR project
+
+<div style='text-align:left;'>
+    <b><font color="#333333">Global Manufacturing Technology Intern</font></b>
+    <span style='float:right;'>
+        <b><font color="#333333">May 2017 &mdash; Aug 2017</font></b>
+    </span>
+</div>
+<u>SI Group</u><br>
+Implemented PI Asset Framework, conducted root cause analysis on company loss
+events, and led group intern project
+
+<br><br>
+
 ## Selected Research Experience
 
 ---
@@ -69,32 +104,6 @@ molecular dynamics, explainable machine learning, and numerical analysis
 <u>Prof. Peng Bai, University of Massachusetts Amherst</u><br>
 Applied convolutional neural networks to predict material properties of
 nanoporous materials
-
-<br><br>
-
-## Industrial Experience
-
----
-
-<div style='text-align:left;'>
-    <b><font color="#333333">Technology & Signal Processing Intern</font></b>
-    <span style='float:right;'>
-        <b><font color="#333333">Jun 2023 &mdash; Sep 2023</font></b>
-    </span>
-</div>
-<u>Triton Systems, Inc.</u><br>
-Led development of electromagnetic components for a viral detection device for
-a DHS SBIR project
-
-<div style='text-align:left;'>
-    <b><font color="#333333">Global Manufacturing Technology Intern</font></b>
-    <span style='float:right;'>
-        <b><font color="#333333">May 2017 &mdash; Aug 2017</font></b>
-    </span>
-</div>
-<u>SI Group</u><br>
-Implemented PI Asset Framework, conducted root cause analysis on company loss
-events, and led group intern project
 
 <br><br>
 
