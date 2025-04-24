@@ -57,7 +57,7 @@ You can find more about my ongoing and completed projects by visiting my
     </span>
 </div>
 <u>Tristar AI</u><br>
-Applied computer vision for defect detection on manufacturing lines
+Applying computer vision for defect detection on manufacturing lines
 
 <div style='text-align:left;'>
     <b><font color="#333333">Technology & Signal Processing Intern</font></b>
