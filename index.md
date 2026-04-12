@@ -51,13 +51,13 @@ You can find more about my ongoing and completed projects by visiting my
 ---
 
 <div style='text-align:left;'>
-    <b><font color="#333333">Junior Computer Vision Engineer</font></b>
+    <b><font color="#333333">Computer Vision Engineer</font></b>
     <span style='float:right;'>
         <b><font color="#333333">Apr 2025 &mdash; Present</font></b>
     </span>
 </div>
 <u>Tristar AI</u><br>
-Applying computer vision for defect detection on manufacturing lines
+Applying computer vision for real-time defect detection on manufacturing lines
 
 <div style='text-align:left;'>
     <b><font color="#333333">Technology & Signal Processing Intern</font></b>
