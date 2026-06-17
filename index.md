@@ -107,7 +107,7 @@ nanoporous materials
 
 <br><br>
 
-## Publications & ongoing work
+## Publications & Ongoing Work
 
 ---
 
@@ -140,15 +140,14 @@ HTML, Bash
 <div style='text-align:left;'>
     <b><font color="#333333">Tools & Frameworks</font></b>
 </div>
-PyTorch, scikit-learn, XGBoost, pandas, Polars, NumPy, SciPy, Matplotlib,
-seaborn
+PyTorch, OpenCV, scikit-learn, XGBoost, pandas/Polars, NumPy/SciPy,
+Matplotlib/seaborn
 
 <div style='text-align:left;'>
     <b><font color="#333333">Machine learning</font></b>
 </div>
-Computer vision, regression, natural language processing, large language
-models, supervised learning, regression, classification, dimensionality
-reduction, clustering
+Computer vision (classical and deep learning), regression, large language
+models, dimensionality reduction, clustering
 
 <div style='text-align:left;'>
     <b><font color="#333333">Molecular dynamics</font></b>
@@ -157,7 +156,7 @@ GROMACS, OpenMM, LAMMPS, VMD, PyMOL, Schr&ouml;dinger
 
 <br><br>
 
-## Selected awards
+## Selected Awards
 
 ---
 
