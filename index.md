@@ -23,29 +23,6 @@ You can find more about my ongoing and completed projects by visiting my
 
 <br><br>
 
-## Education
-
----
-
-<div style='text-align:left;'>
-    <b><font color="#333333">University of Massachusetts Amherst</font></b>
-    <span style='float:right;'>
-        <b><font color="#333333">Sep 2018 &mdash; Dec 2024</font></b>
-    </span>
-</div>
-&emsp; Ph.D., Chemical Engineering
-
-<div style='text-align:left;'>
-    <b><font color="#333333">Clarkson University</font></b>
-    <span style='float:right;'>
-        <b><font color="#333333">Sep 2014 &mdash; May 2018</font></b>
-    </span>
-</div>
-&emsp; B.S., Chemical Engineering\
-&emsp;&emsp; Minors in Mathematics and International & Cross-Cultural Perspectives
-
-<br><br>
-
 ## Industrial Experience
 
 ---
@@ -107,6 +84,29 @@ nanoporous materials
 
 <br><br>
 
+## Education
+
+---
+
+<div style='text-align:left;'>
+    <b><font color="#333333">University of Massachusetts Amherst</font></b>
+    <span style='float:right;'>
+        <b><font color="#333333">Sep 2018 &mdash; Dec 2024</font></b>
+    </span>
+</div>
+&emsp; Ph.D., Chemical Engineering
+
+<div style='text-align:left;'>
+    <b><font color="#333333">Clarkson University</font></b>
+    <span style='float:right;'>
+        <b><font color="#333333">Sep 2014 &mdash; May 2018</font></b>
+    </span>
+</div>
+&emsp; B.S., Chemical Engineering\
+&emsp;&emsp; Minors in Mathematics and International & Cross-Cultural Perspectives
+
+<br><br>
+
 ## Publications & Ongoing Work
 
 ---
@@ -140,14 +140,19 @@ HTML, Bash
 <div style='text-align:left;'>
     <b><font color="#333333">Tools & Frameworks</font></b>
 </div>
-PyTorch, OpenCV, scikit-learn, XGBoost, pandas/Polars, NumPy/SciPy,
+PyTorch, OpenCV, MLflow, scikit-learn, XGBoost, pandas/Polars, NumPy/SciPy,
 Matplotlib/seaborn
 
 <div style='text-align:left;'>
     <b><font color="#333333">Machine learning</font></b>
 </div>
 Computer vision (classical and deep learning), regression, large language
-models, dimensionality reduction, clustering
+models, dimensionality reduction, clustering, MLOps
+
+<div style='text-align:left;'>
+    <b><font color="#333333">Development</font></b>
+</div>
+Git, Docker, AWS, (Neo)Vim, Linux, Unix
 
 <div style='text-align:left;'>
     <b><font color="#333333">Molecular dynamics</font></b>
