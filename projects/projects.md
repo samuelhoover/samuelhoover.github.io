@@ -11,11 +11,11 @@ permalink: projects/
 Using gradient-boosted decision trees and SHAP values to determine the effect
 of monomer sequence on the phase behavior of sequence-defined charged polymers.
 <p align="center">
-  <iframe
-    src="/projects/assets/imgs/Nchi-vs-eta.pdf"
+  <img
+    src="/projects/assets/imgs/Nchi-vs-eta.png"
     alt="Ongoing work"
     width="80%"
-  ></iframe>
+  />
 </p>
 
 ---
@@ -30,11 +30,11 @@ Validated earlier hypothesis on the switching between charge-dipole and
 dipole-dipole electrostatic interactions as the determining factor for
 coacervate stability.
 <p align="center">
-  <iframe
-    src="/projects/assets/imgs/system-schematic.pdf"
+  <img
+    src="/projects/assets/imgs/system-schematic.png"
     alt="System schematic"
     width="80%"
-  ></iframe>
+  />
 </p>
 
 [Check out the paper!](https://pubs.rsc.org/en/content/articlelanding/2024/sm/d4sm00575a)
