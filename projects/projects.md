@@ -11,11 +11,11 @@ permalink: projects/
 Using gradient-boosted decision trees and SHAP values to determine the effect
 of monomer sequence on the phase behavior of sequence-defined charged polymers.
 <p align="center">
-  <img
+  <iframe
     src="/projects/assets/imgs/Nchi-vs-eta.pdf"
     alt="Ongoing work"
     width="80%"
-  />
+  ></iframe>
 </p>
 
 ---
@@ -30,11 +30,11 @@ Validated earlier hypothesis on the switching between charge-dipole and
 dipole-dipole electrostatic interactions as the determining factor for
 coacervate stability.
 <p align="center">
-  <img
+  <iframe
     src="/projects/assets/imgs/system-schematic.pdf"
     alt="System schematic"
     width="80%"
-  />
+  ></iframe>
 </p>
 
 [Check out the paper!](https://pubs.rsc.org/en/content/articlelanding/2024/sm/d4sm00575a)
@@ -75,7 +75,7 @@ calculation and numerical tricks for improved computational efficiency. The
 variety of scientific fields, namely for the study of spin glasses in
 statistical mechanics.
 
-| Initial lattice | Final lattice|
+| Initial lattice | Final lattice |
 | -- | -- |
 | ![Input lattice](/projects/assets/imgs/t_0.png) | ![Final lattice](/projects/assets/imgs/t_1e9.png) |
 
@@ -117,7 +117,7 @@ droplets. Eventually, both scenarios (50/50 and 70/30 mixtures) should undergo
 macrophase separation into two bulk phases.
 
 | 50/50 mixture | 70/30 mixture |
-| -- | --|
+| -- | -- |
 | ![50/50 mixture](/projects/assets/gifs/spinodal-decomposition_D-100_gamma-0.5_p-0.gif) | ![70/30 mixture](/projects/assets/gifs/spinodal-decomposition_D-100_gamma-0.5_p-0.4.gif) |
 
 [(repo)](https://github.com/samuelhoover/spinodal-decomposition)
