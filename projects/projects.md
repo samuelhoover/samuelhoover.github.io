@@ -33,7 +33,7 @@ coacervate stability.
   <img
     src="/projects/assets/imgs/system-schematic.png"
     alt="System schematic"
-    width="80%"
+    width="90%"
   />
 </p>
 
@@ -50,7 +50,7 @@ and that more rich data is needed.
   <img
     src="/projects/assets/imgs/saliency-maps.png"
     alt="Saliency map from last layer of convolutional neural network"
-    width="80%"
+    width="100%"
   />
 </p>
 
@@ -97,7 +97,7 @@ the percolated cluster.
   <img
     src="/projects/assets/imgs/percolated_array.png"
     alt="Percolated array"
-    width="40%"
+    width="80%"
   />
 </p>
 
